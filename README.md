@@ -2,5 +2,6 @@
 
 
 This will contain:
-__My digital playgrounds__
-__Every project I've learned and completed from Codecademy and Udemy__
+My digital playgrounds and every project I've learned and completed from Codecademy and Udemy.
+
+:)
